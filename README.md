@@ -1,5 +1,5 @@
 # Quiz-Struktur-Data
-## Q1-2501010123-IGedeFajarWaradana
+## Q1-2501010123-IGedeFajarWaradana-D
 
 ## 1.Karakteristik Memori dan Akses Data
 Perbedaan kecepatan akses antara Array dan Linked List ditentukan oleh bagaimana mereka disusun di dalam RAM.
